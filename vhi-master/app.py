@@ -75,4 +75,4 @@ class vhi_app(server.App):
 		return fig
 
 app = vhi_app()
-app.launch(port=1203)
+app.launch(port=1200)
